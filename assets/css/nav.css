@@ -1,0 +1,30 @@
+nav.navbar {
+  background-color: white;
+  border: 1px solid lightgrey;
+}
+
+nav.navbar .navbar-header .navbar-brand,
+nav.navbar  .navbar-nav>li>a {
+  color: black;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+  color: black;
+}
+
+body > .container {
+  margin-top:1em;
+}
+
+.nav-link {
+  display: inline-block;
+  margin: 0 1em;
+}
+
+.nav-link:first-child {
+  margin-left: 0;
+}
+
+.chart-container {
+  max-height: 400px;
+}

@@ -1,0 +1,6 @@
+To Fix:
+1) ***Encrypt passwords before entering into the database - instead use password hash php
+
+2) Check if email address is unique? (Might not apply for our site, since students will have parent/teacher with same email) - give update my account, update child/student account options
+3) Connect pages to front end
+
